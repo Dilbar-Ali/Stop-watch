@@ -1,4 +1,4 @@
-/* .nav{
+.nav{
     background:linear-gradient(to left, rgb(212, 184, 184),#a79b9b, purple );
     padding: 20px;
     text-align: center;
@@ -42,4 +42,4 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-} */
+}
